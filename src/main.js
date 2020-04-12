@@ -6,6 +6,7 @@ import router from './router'
 
 // tailwind css
 import './assets/tailwind.min.css'
+import './assets/custom.css'
 
 Vue.config.productionTip = false
 
